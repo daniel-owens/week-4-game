@@ -1,0 +1,131 @@
+
+body {
+    
+}
+
+h1 {
+	padding: 20px;
+	width: 30%;
+	position: relative;
+	left: 20px;
+	padding-left: 10px;
+    padding-right: 10px;
+}
+
+p {
+	color: green;
+	width: 40%;
+	position: relative;
+	left: 20px;
+	padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container {
+
+}
+
+.random-number {
+	background-color: limegreen;
+	width: 300px;
+	padding: 60px;
+	font-size: 40px;
+	position: relative;
+	float: left;
+	right: 125px;
+}
+
+#random-number {
+	position: relative;
+	right: 40px;
+	bottom: 50px;
+}
+
+.wins-losses {
+	background-color: #4dffff;
+	width: 100px;
+	padding: 40px;
+	position: relative;
+	float: right;
+	right: 850px;
+}
+
+#wins-losses {
+	
+}
+
+#wins {
+	font-size: 20px;
+	position: relative;
+	right: 30px;
+}
+
+#losses {
+	font-size: 20px;
+	position: relative;
+	right: 30px;
+	bottom: 30px;
+}
+
+
+.crystals {
+	clear: both;
+	position: relative;
+	right: 125px;
+	top: 10px;
+}
+
+img {
+	height: 50px;
+	width: 50px;
+	position: relative;
+}
+
+.total-banner {
+	background-color: #009999;
+	width: 300px;
+	position: relative;
+	top: 20px;
+	right: 125px;
+	padding-top: 5px;
+	padding-bottom: 5px
+}
+
+#total-banner {
+	color: white;
+	padding-left: 15px;
+}
+
+.total {
+	background-color: #009999;
+	width: 300px;
+	position: relative;
+	top: 10px;
+	right: 125px;
+	padding: 60px;
+
+}
+
+#total {
+	color: white;
+	padding-left: 15px;
+	font-size: 40px;
+	position: relative;
+	right: 50px;
+	bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
